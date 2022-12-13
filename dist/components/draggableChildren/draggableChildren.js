@@ -1,5 +1,5 @@
 import React from "react";
-import "./draggableChild.css";
+// import "./draggableChild.css";
 
 class DraggableChildComponent extends React.Component {
   render() {
